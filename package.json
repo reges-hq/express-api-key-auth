@@ -1,6 +1,6 @@
 {
   "name": "@reges-hq/express-api-key-auth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "express-api-key-auth",
   "main": "./lib/index.js",
   "directories": {
